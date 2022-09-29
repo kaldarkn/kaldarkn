@@ -1,13 +1,13 @@
 
 ### Cтек технологий:
-<img src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5&logoColor=red" width="200"/> <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3&logoColor=7473c9" width="200" height="70"/> <img src="https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=Sass&logoColor=7473c9" width="200" height="70"/> <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=orange" width="287" height="70"/> <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=blue" width="317" height="70"/>
+<img src="https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=HTML5&logoColor=red" width="200"/> <img src="https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=7473c9" width="200" height="70"/> <img src="https://img.shields.io/badge/SCSS-0D1117?style=for-the-badge&logo=Sass&logoColor=7473c9" width="200" height="70"/> <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=JavaScript&logoColor=orange" width="287" height="70"/> <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=React&logoColor=blue" width="317" height="70"/>
 
 ### Мои страницы:
-[<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=Habr&logoColor=7473c9" width="100"/>](https://career.habr.com/kairatkaldar)
-[<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=Telegram&logoColor=7473c9" width="100"/>](
+[<img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=Habr&logoColor=7473c9" width="100"/>](https://career.habr.com/kairatkaldar)
+[<img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=Telegram&logoColor=7473c9" width="100"/>](
 https://t.me/thenotoriousmma9)
-[<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=instagram&logoColor=e84f0e" width="100"/>](https://www.instagram.com/thenotoriousmma9/)
-[<img src="https://img.shields.io/badge/-white?style=for-the-badge&logo=VK&logoColor=blue" width="100"/>](https://vk.com/kaldar)
+[<img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=instagram&logoColor=e84f0e" width="100"/>](https://www.instagram.com/thenotoriousmma9/)
+[<img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=VK&logoColor=blue" width="100"/>](https://vk.com/kaldar)
 
 ## О себе:
 Окончил бакалавриат и магистратуру ТУСУРа по специальности Автоматизация технологических процессов и производств. Результатом обучения является получение двух дипломов с отличием.
