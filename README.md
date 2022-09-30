@@ -7,7 +7,7 @@
 [<img src="https://img.icons8.com/color/96/000000/mongodb.png"  title="MongoDB"/>](https://metanit.com/nosql/mongodb/1.1.php)
 
 ______
-### Статистика:
+### Статистика по технологиям:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ______
