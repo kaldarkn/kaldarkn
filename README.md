@@ -18,9 +18,17 @@
     <a href="https://metanit.com/nosql/mongodb/1.1.php">
         <img src="https://img.icons8.com/color/96/000000/mongodb.png"  title="MongoDB"/>
     </a>
-
-
-______
+    
+  <div>
+      </br>
+      </br>
+      </br>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark"/>
+      </a>
+  </div>
+  
+______________
   <h3>Напиши мне:</h3>
   <a href="https://t.me/thenotoriousmma9">
       <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" title="Telegram"/>
@@ -37,12 +45,7 @@ ______
   <a href="mailto:kairat.kkn@mail.ru">
       <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="kairat.kkn@mail.ru"/>
   </a>
-
-
-______
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark"/>
-  </a>
+  
 </div>
 
 
