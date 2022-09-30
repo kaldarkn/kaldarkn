@@ -1,5 +1,4 @@
 ### Cтек технологий:
-_______
 [<img src="https://img.icons8.com/color/96/000000/html-5--v1.png/" title="HTML"/>](https://metanit.com/web/html5/1.1.php)
 [<img src="https://img.icons8.com/color/96/000000/css3.png" title="CSS"/>](https://metanit.com/web/html5/5.1.php)
 [<img src="https://img.icons8.com/color/96/000000/javascript--v1.png" title="JavaScript"/>](https://metanit.com/web/javascript/1.1.php)
@@ -7,17 +6,19 @@ _______
 [<img src="https://img.icons8.com/color/96/000000/postgreesql.png" title="PostgreSQL"/>](https://metanit.com/sql/postgresql/1.1.php)
 [<img src="https://img.icons8.com/color/96/000000/mongodb.png"  title="MongoDB"/>](https://metanit.com/nosql/mongodb/1.1.php)
 
+______
 ### Напиши мне:
-________
 [<img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" title="Telegram"/>](https://t.me/thenotoriousmma9)
 [<img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" title="Whatsapp"/>](https://wa.me/79234165687)
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="Instagram"/>](https://www.instagram.com/thenotoriousmma9/)
 [<img src="https://img.icons8.com/fluency/48/000000/vk-circled.png" title="Вконтакте"/>](https://vk.com/kaldar)
 [<a href="mailto:kairat.kkn@mail.ru"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="kairat.kkn@mail.ru"/></a>](kairat.kkn@mail.ru)
 
+______
 ### Статистика:
-________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### О себе:
 ________
