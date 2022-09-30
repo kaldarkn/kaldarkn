@@ -6,12 +6,11 @@
 
 ### Мои страницы:
 ________
-
-[<img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=Habr&logoColor=7473c9" width="100"/>](https://career.habr.com/kairatkaldar)
-[<img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=Telegram&logoColor=7473c9" width="100"/>](
+[<img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/>](kairat.kkn@mail.ru)
+[<img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/>](
 https://t.me/thenotoriousmma9)
-[<img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=instagram&logoColor=e84f0e" width="100"/>](https://www.instagram.com/thenotoriousmma9/)
-[<img src="https://img.shields.io/badge/-0D1117?style=for-the-badge&logo=VK&logoColor=blue" width="100"/>](https://vk.com/kaldar)
+[<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/thenotoriousmma9/)
+[<img src="https://img.icons8.com/fluency/48/000000/vk-circled.png"/>](https://vk.com/kaldar)
 
 ### О себе:
 ________
