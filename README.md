@@ -6,7 +6,7 @@
 
 ### Мои страницы:
 ________
-[<img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/>](kairat.kkn@mail.ru)
+[<a href="mailto:kairat.kkn@mail.ru"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/></a>](kairat.kkn@mail.ru)
 [<img src="https://img.icons8.com/fluency/48/000000/telegram-app.png"/>](
 https://t.me/thenotoriousmma9)
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>](https://www.instagram.com/thenotoriousmma9/)
