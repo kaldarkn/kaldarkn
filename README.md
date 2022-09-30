@@ -1,4 +1,3 @@
-
 ### Cтек технологий:
 _______
 [<img src="https://img.icons8.com/color/96/000000/html-5--v1.png/" title="HTML"/>](https://metanit.com/web/html5/1.1.php)
@@ -15,6 +14,10 @@ ________
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="Instagram"/>](https://www.instagram.com/thenotoriousmma9/)
 [<img src="https://img.icons8.com/fluency/48/000000/vk-circled.png" title="Вконтакте"/>](https://vk.com/kaldar)
 [<a href="mailto:kairat.kkn@mail.ru"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="kairat.kkn@mail.ru"/></a>](kairat.kkn@mail.ru)
+
+### Статистика:
+________
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### О себе:
 ________
