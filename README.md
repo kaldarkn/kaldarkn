@@ -1,4 +1,5 @@
 <div align="center">
+    </br>
     <h3>Cтек технологий:</h3>
     <a href="https://metanit.com/web/html5/1.1.php">
         <img src="https://img.icons8.com/color/96/000000/html-5--v1.png/" title="HTML"/>
