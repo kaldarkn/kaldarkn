@@ -7,16 +7,16 @@
 [<img src="https://img.icons8.com/color/96/000000/mongodb.png"  title="MongoDB"/>](https://metanit.com/nosql/mongodb/1.1.php)
 
 ______
+### Статистика:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+______
 ### Напиши мне:
 [<img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" title="Telegram"/>](https://t.me/thenotoriousmma9)
 [<img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" title="Whatsapp"/>](https://wa.me/79234165687)
 [<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="Instagram"/>](https://www.instagram.com/thenotoriousmma9/)
 [<img src="https://img.icons8.com/fluency/48/000000/vk-circled.png" title="Вконтакте"/>](https://vk.com/kaldar)
 [<a href="mailto:kairat.kkn@mail.ru"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="kairat.kkn@mail.ru"/></a>](kairat.kkn@mail.ru)
-
-______
-### Статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ________
 ### О себе:
