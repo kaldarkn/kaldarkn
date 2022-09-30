@@ -1,28 +1,50 @@
 <div align="center">
-<h3>Cтек технологий:</h3>
-<a href="https://metanit.com/web/html5/1.1.php"><img src="https://img.icons8.com/color/96/000000/html-5--v1.png/" title="HTML"/></a>
-<a href="https://metanit.com/web/html5/5.1.php"><img src="https://img.icons8.com/color/96/000000/css3.png" title="CSS"/></a>
-<a href="https://metanit.com/web/javascript/1.1.php"><img src="https://img.icons8.com/color/96/000000/javascript--v1.png" title="JavaScript"/></a>
-<a href="https://ru.reactjs.org/"><img src="https://img.icons8.com/color/96/000000/react-native.png" title="ReactJS"/></a>
-<a href="https://metanit.com/sql/postgresql/1.1.php"><img src="https://img.icons8.com/color/96/000000/postgreesql.png" title="PostgreSQL"/></a>
-<a href="https://metanit.com/nosql/mongodb/1.1.php"><img src="https://img.icons8.com/color/96/000000/mongodb.png"  title="MongoDB"/></a>
-</div>
+    <h3>Cтек технологий:</h3>
+    <a href="https://metanit.com/web/html5/1.1.php">
+        <img src="https://img.icons8.com/color/96/000000/html-5--v1.png/" title="HTML"/>
+    </a>
+    <a href="https://metanit.com/web/html5/5.1.php">
+        <img src="https://img.icons8.com/color/96/000000/css3.png" title="CSS"/>
+    </a>
+    <a href="https://metanit.com/web/javascript/1.1.php">
+        <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" title="JavaScript"/>
+    </a>
+    <a href="https://ru.reactjs.org/">
+        <img src="https://img.icons8.com/color/96/000000/react-native.png" title="ReactJS"/>
+    </a>
+    <a href="https://metanit.com/sql/postgresql/1.1.php">
+        <img src="https://img.icons8.com/color/96/000000/postgreesql.png" title="PostgreSQL"/>
+    </a>
+    <a href="https://metanit.com/nosql/mongodb/1.1.php">
+        <img src="https://img.icons8.com/color/96/000000/mongodb.png"  title="MongoDB"/>
+    </a>
+
 
 ______
-<div align="center">
-<h3>Напиши мне:</h3>
-<a href="https://t.me/thenotoriousmma9"><img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" title="Telegram"/></a>
-<a href="https://wa.me/79234165687"><img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" title="Whatsapp"/></a>
-<a href="https://www.instagram.com/thenotoriousmma9/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="Instagram"/></a>
-<a href="https://vk.com/kaldar"><img src="https://img.icons8.com/fluency/48/000000/vk-circled.png" title="Вконтакте"/></a>
-<a href="mailto:kairat.kkn@mail.ru"><img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="kairat.kkn@mail.ru"/></a>
-</div>
+  <h3>Напиши мне:</h3>
+  <a href="https://t.me/thenotoriousmma9">
+      <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" title="Telegram"/>
+   </a>
+  <a href="https://wa.me/79234165687">
+      <img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" title="Whatsapp"/>
+  </a>
+  <a href="https://www.instagram.com/thenotoriousmma9/">
+      <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="Instagram"/>
+  </a>
+  <a href="https://vk.com/kaldar">
+      <img src="https://img.icons8.com/fluency/48/000000/vk-circled.png" title="Вконтакте"/>
+  </a>
+  <a href="mailto:kairat.kkn@mail.ru">
+      <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="kairat.kkn@mail.ru"/>
+  </a>
+
 
 ______
-<h3>Статистика:</h3>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark" />
-</a>
+  <h3>Статистика:</h3>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark" />
+  </a>
+</div>
 
 
 ________
