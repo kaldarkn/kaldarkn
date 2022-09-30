@@ -19,8 +19,11 @@ ______
 </div>
 
 ______
-### Статистика:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<h3>Статистика:</h3>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark" />
+</a>
+
 
 ________
 ### О себе:
