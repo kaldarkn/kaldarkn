@@ -1,14 +1,12 @@
 
 ### Cтек технологий:
 _______
-<p>
 [<img src="https://img.icons8.com/color/96/000000/html-5--v1.png/" title="HTML"/>](https://metanit.com/web/html5/1.1.php)
 [<img src="https://img.icons8.com/color/96/000000/css3.png" title="CSS"/>](https://metanit.com/web/html5/5.1.php)
 [<img src="https://img.icons8.com/color/96/000000/javascript--v1.png" title="JavaScript"/>](https://metanit.com/web/javascript/1.1.php)
 [<img src="https://img.icons8.com/color/96/000000/react-native.png" title="ReactJS"/>](https://ru.reactjs.org/)
 [<img src="https://img.icons8.com/color/96/000000/postgreesql.png" title="PostgreSQL"/>](https://metanit.com/sql/postgresql/1.1.php)
 [<img src="https://img.icons8.com/color/96/000000/mongodb.png"  title="MongoDB"/>](https://metanit.com/nosql/mongodb/1.1.php)
-</p>
 
 ### Напиши мне:
 ________
