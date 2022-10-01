@@ -35,7 +35,7 @@ ______________
       <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" title="Telegram"/>
    </a>
   <a href="https://wa.me/79234165687">
-      <img src="https://img.icons8.com/fluency/48/000000/whatsapp.png" title="Whatsapp"/>
+      <img src="https://img.icons8.com/3d-fluency/48/000000/whatsapp.png" title="Whatsapp"/>
   </a>
   <a href="https://www.instagram.com/thenotoriousmma9/">
       <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="Instagram"/>
@@ -46,7 +46,6 @@ ______________
   <a href="mailto:kairat.kkn@mail.ru">
       <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="kairat.kkn@mail.ru"/>
   </a>
-  
 </div>
 
 
