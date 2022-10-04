@@ -24,8 +24,10 @@
       </br>
       </br>
       </br>
-      
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark"/>
+      <a href="/">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark"/>
+      </a>
+    
      
   </div>
   
