@@ -26,6 +26,7 @@
       </br>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark"/>
+         <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaldarkn&show_icons=true&locale=en&layout=compact&theme=react" alt="kaldarkn" />
       </a>
   </div>
   
