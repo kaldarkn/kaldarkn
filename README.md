@@ -24,7 +24,7 @@
       </br>
       </br>
       </br>
-      <a href="/">
+      <a href="https://github.com/kaldarkn">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark"/>
       </a>
     
