@@ -13,7 +13,7 @@
     <a href="https://ru.reactjs.org/">
         <img src="https://img.icons8.com/color/96/000000/react-native.png" title="ReactJS"/>
     </a>
-        <a href="https://redux-toolkit.js.org/">
+    <a href="https://redux-toolkit.js.org/">
         <img src="https://img.icons8.com/color/96/000000/redux.png" title="Redux Toolkit"/>
     </a>
     <a href="https://metanit.com/sql/postgresql/1.1.php">
