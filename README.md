@@ -30,6 +30,15 @@
       <a href="https://github.com/kaldarkn">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark"/>
       </a>
+      
+      
+
+
+| Github Stats                                                                                                                                                                                     | Top Languages                                                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![github stats](https://github-readme-stats.vercel.app/api?username=kaldarkn&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
+
     
      
   </div>
