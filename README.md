@@ -2,7 +2,7 @@
     </br>
     <h3>Cтек технологий:</h3>
     <a href="https://metanit.com/web/html5/1.1.php">
-        <img src="https://img.icons8.com/?size=512&id=N1Dl0KKHixwS&format=png" title="HTML"/>
+        <img src="https://img.icons8.com/color/96/html-5--v1.png" title="HTML"/>
     </a>
     <a href="https://metanit.com/web/html5/5.1.php">
         <img src="https://img.icons8.com/color/96/000000/css3.png" title="CSS"/>
