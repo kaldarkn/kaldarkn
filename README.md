@@ -10,6 +10,9 @@
     <a href="https://metanit.com/web/javascript/1.1.php">
         <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" title="JavaScript"/>
     </a>
+    <a href="https://metanit.com/web/typescript/1.1.php">
+        <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/96/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png" title="TypeScript"/>
+    </a>
     <a href="https://ru.reactjs.org/">
         <img src="https://img.icons8.com/color/96/000000/react-native.png" title="ReactJS"/>
     </a>
