@@ -19,9 +19,6 @@
     <a href="https://metanit.com/sql/postgresql/1.1.php">
         <img src="https://img.icons8.com/color/96/000000/postgreesql.png" title="PostgreSQL"/>
     </a>
-    <a href="https://metanit.com/nosql/mongodb/1.1.php">
-        <img src="https://img.icons8.com/color/96/000000/mongodb.png"  title="MongoDB"/>
-    </a>
     
   <div>
       </br>
