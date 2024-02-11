@@ -13,8 +13,8 @@
     <a href="https://metanit.com/web/typescript/1.1.php">
         <img src="https://img.icons8.com/fluency/96/typescript--v2.png" title="TypeScript"/>
     </a>
-    <a href="https://ru.reactjs.org/">
-        <img src="https://img.icons8.com/color/96/000000/react-native.png" title="ReactJS"/>
+    <a href="https://react.dev/">
+        <img src="https://img.icons8.com/color/96/000000/react-native.png" title="React"/>
     </a>
     <a href="https://redux-toolkit.js.org/">
         <img src="https://img.icons8.com/color/96/000000/redux.png" title="Redux Toolkit"/>
