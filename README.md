@@ -122,20 +122,14 @@ Building modern web applications with a focus on clean architecture, maintainabl
 ## 📫 Let's Connect
 
 <p>
-  <a href="https://github.com/kaldarkn" target="_blank" rel="noopener noreferrer" title="GitHub Profile">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" />
-  </a>
   <a href="https://t.me/the_codefather_dev" target="_blank" rel="noopener noreferrer" title="Telegram">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="Telegram" />
   </a>
-  <a href="https://wa.me/79234165687" target="_blank" rel="noopener noreferrer" title="WhatsApp">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp" />
-  </a>
-  <a href="https://www.instagram.com/thenotoriousmma9/" target="_blank" rel="noopener noreferrer" title="Instagram">
+  <a href="https://www.instagram.com/the.codefather.dev/" target="_blank" rel="noopener noreferrer" title="Instagram">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram" />
   </a>
-  <a href="https://vk.com/kaldar" target="_blank" rel="noopener noreferrer" title="VK">
-    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" title="VK" />
+  <a href="https://www.threads.net/@the.codefather.dev" target="_blank" rel="noopener noreferrer" title="Threads">
+    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" title="Threads" />
   </a>
   <a href="mailto:kairat.kkn@mail.ru" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" />
