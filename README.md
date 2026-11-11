@@ -139,3 +139,150 @@ Building modern web applications with a focus on clean architecture, maintainabl
 ---
 
 *Building things that matter. Learning something new every day.*
+
+---
+## 📄 Резюме / Resume
+
+<details>
+<summary><strong>Русская версия</strong></summary>
+
+<a id="resume-ru"></a>
+
+# Кайрат Калдар
+
+**Frontend Team Lead | Software Engineer**
+
+📍 Шымкент, Казахстан
+
+### Обо мне
+
+Software Engineer с опытом разработки программного обеспечения с 2018 года. Специализируюсь на frontend-разработке, проектировании архитектуры приложений и создании современных веб- и desktop-приложений.
+
+Имею опыт технического лидерства, организации работы команды разработки, принятия архитектурных решений и развития инженерных практик.
+
+Также имею опыт в промышленной автоматизации и разработке систем на базе PLC / SCADA.
+
+### Технические навыки
+
+**Языки:** JavaScript, TypeScript, HTML5, CSS3, SCSS, SQL.
+
+**Frontend:** React, Material UI, React Router, React Hook Form, React Leaflet, Recharts.
+
+**Управление состоянием:** Redux Toolkit, Redux Saga, Redux Thunk, RTK Query, MobX.
+
+**Desktop:** Electron.
+
+**Взаимодействие с API:** REST API, WebSocket.
+
+**Инструменты:** Git, GitHub, Vite, Vitest, ESLint, Prettier, Visual Studio Code.
+
+**Базы данных:** PostgreSQL.
+
+**Дополнительно:** PLC, SCADA, промышленная автоматизация.
+
+### Профессиональный опыт
+
+**Frontend Team Lead | Software Engineer**
+
+- Руководство командой frontend-разработки и координация её работы.
+- Распределение задач, контроль выполнения и помощь в решении технических вопросов.
+- Участие в подборе специалистов и проведении технических интервью.
+- Оценка технических компетенций кандидатов.
+- Проектирование и развитие архитектуры frontend-приложений.
+- Разработка сложных интерфейсов на React и TypeScript.
+- Разработка и поддержка решений для управления состоянием приложения.
+- Интеграция с REST API и WebSocket.
+- Разработка кроссплатформенных desktop-приложений на Electron.
+- Проведение Code Review и поддержание стандартов качества кода.
+- Улучшение процессов разработки и инженерных практик.
+- Участие в принятии архитектурных и технических решений.
+
+### Дополнительный опыт
+
+**Промышленная автоматизация | PLC / SCADA**
+
+Опыт разработки и сопровождения решений для промышленной автоматизации, работы с PLC, SCADA и промышленными интерфейсами.
+
+### Профессиональные интересы
+
+- Архитектура программного обеспечения.
+- Frontend Engineering.
+- Проектирование масштабируемых систем.
+- Производительность приложений.
+- Качество и поддерживаемость кода.
+- Развитие инженерных команд.
+- Разработка программных продуктов.
+
+</details>
+
+<details>
+<summary><strong>English version</strong></summary>
+
+<a id="resume-en"></a>
+
+# Kairat Kaldar
+
+**Frontend Team Lead | Software Engineer**
+
+📍 Shymkent, Kazakhstan
+
+### About Me
+
+Software Engineer with experience in software development since 2018. Specialized in frontend engineering, application architecture, and building modern web and desktop applications.
+
+Experienced in technical leadership, coordinating development teams, making architectural decisions, and improving engineering practices.
+
+Also have a background in industrial automation and PLC / SCADA systems.
+
+### Technical Skills
+
+**Languages:** JavaScript, TypeScript, HTML5, CSS3, SCSS, SQL.
+
+**Frontend:** React, Material UI, React Router, React Hook Form, React Leaflet, Recharts.
+
+**State Management:** Redux Toolkit, Redux Saga, Redux Thunk, RTK Query, MobX.
+
+**Desktop:** Electron.
+
+**APIs & Communication:** REST API, WebSocket.
+
+**Tools:** Git, GitHub, Vite, Vitest, ESLint, Prettier, Visual Studio Code.
+
+**Databases:** PostgreSQL.
+
+**Additional:** PLC, SCADA, Industrial Automation.
+
+### Professional Experience
+
+**Frontend Team Lead | Software Engineer**
+
+- Lead and coordinate the frontend development team.
+- Assign tasks, monitor progress, and support team members in solving technical challenges.
+- Participate in recruitment and conduct technical interviews.
+- Evaluate candidates' technical skills and competencies.
+- Design and evolve frontend application architecture.
+- Develop complex user interfaces using React and TypeScript.
+- Implement and maintain state management solutions.
+- Integrate applications with REST APIs and WebSocket.
+- Build cross-platform desktop applications using Electron.
+- Conduct code reviews and maintain coding standards.
+- Improve development workflows and engineering practices.
+- Participate in architectural and technical decisions.
+
+### Additional Experience
+
+**Industrial Automation | PLC / SCADA**
+
+Experience in industrial automation, developing and maintaining solutions based on PLC and SCADA systems, and working with industrial software interfaces.
+
+### Professional Interests
+
+- Software Architecture & System Design.
+- Frontend Engineering.
+- Scalable Applications.
+- Application Performance.
+- Code Quality & Maintainability.
+- Engineering Team Development.
+- Software Product Development.
+
+</details>
