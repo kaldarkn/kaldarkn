@@ -1,78 +1,147 @@
-<div align="center">
-    </br>
-    <h3>Cтек технологий:</h3>
-    <a href="https://metanit.com/web/html5/1.1.php">
-        <img src="https://img.icons8.com/color/96/html-5--v1.png" title="HTML"/>
-    </a>
-    <a href="https://metanit.com/web/html5/5.1.php">
-        <img src="https://img.icons8.com/color/96/000000/css3.png" title="CSS"/>
-    </a>
-    <a href="https://metanit.com/web/javascript/1.1.php">
-        <img src="https://img.icons8.com/color/96/000000/javascript--v1.png" title="JavaScript"/>
-    </a>
-    <a href="https://metanit.com/web/typescript/1.1.php">
-        <img src="https://img.icons8.com/fluency/96/typescript--v2.png" title="TypeScript"/>
-    </a>
-    <a href="https://react.dev/">
-        <img src="https://img.icons8.com/color/96/000000/react-native.png" title="React"/>
-    </a>
-    <a href="https://redux-toolkit.js.org/">
-        <img src="https://img.icons8.com/color/96/000000/redux.png" title="Redux Toolkit"/>
-    </a>
-    <a href="https://metanit.com/sql/postgresql/1.1.php">
-        <img src="https://img.icons8.com/color/96/000000/postgreesql.png" title="PostgreSQL"/>
-    </a>
-    
-  <div>
-      </br>
-      </br>
-      <a href="https://github.com/kaldarkn">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaldarkn&layout=compact&theme=vision-friendly-dark"/>
-      </a>
-      <a href="https://github.com/kaldarkn">
-        <img align="center" src="https://leetcode.card.workers.dev/kaldarkn?theme=dark&font=baloo&extension=null"/>
-      </a>
+# 👋 Hi, I'm Kairat Kaldar
 
-  </div>
-  
-  
-  
-______________
-  <h3>Напиши мне:</h3>
-  <a href="https://t.me/thenotoriousmma9">
-      <img src="https://img.icons8.com/fluency/48/000000/telegram-app.png" title="Telegram"/>
-   </a>
-  <a href="https://wa.me/79234165687">
-      <img src="https://img.icons8.com/3d-fluency/48/000000/whatsapp.png" title="Whatsapp"/>
+### Frontend Team Lead · Software Engineer
+
+<img src="https://flagcdn.com/w40/kz.png" width="24" alt="Kazakhstan flag" title="Kazakhstan" /> Based in Kazakhstan
+
+Building modern web applications with a focus on clean architecture, maintainable code, and great user experience.
+
+- 💻 Software development since 2018
+- ⚛️ Specialized in React and TypeScript
+- 🏗️ Background in industrial automation (PLC / SCADA)
+- 🚀 Interested in software architecture, engineering practices, and product development
+
+## 🛠️ Tech Stack
+
+### Core Technologies
+
+<p>
+  <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noopener noreferrer" title="TypeScript — Official Documentation">
+    <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript" title="TypeScript" />
   </a>
-  <a href="https://www.instagram.com/thenotoriousmma9/">
-      <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" title="Instagram"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide" target="_blank" rel="noopener noreferrer" title="JavaScript — MDN Documentation">
+    <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" title="JavaScript" />
   </a>
-  <a href="https://vk.com/kaldar">
-      <img src="https://img.icons8.com/fluency/48/000000/vk-circled.png" title="Вконтакте"/>
+  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer" title="React — Official Documentation">
+    <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" title="React" />
   </a>
-  <a href="mailto:kairat.kkn@mail.ru">
-      <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" title="kairat.kkn@mail.ru"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer" title="HTML5 — MDN Documentation">
+    <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" title="HTML5" />
   </a>
-</div>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noopener noreferrer" title="CSS3 — MDN Documentation">
+    <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" title="CSS3" />
+  </a>
+</p>
 
+### State Management
 
-________
-<h3>О себе:</h3>
+<p>
+  <a href="https://redux-toolkit.js.org/introduction/getting-started" target="_blank" rel="noopener noreferrer" title="Redux Toolkit — Official Documentation">
+    <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux Toolkit" title="Redux Toolkit" />
+  </a>
+  <a href="https://redux-saga.js.org/docs/Introduction/GettingStarted/" target="_blank" rel="noopener noreferrer" title="Redux Saga — Official Documentation">
+   <img src="https://raw.githubusercontent.com/redux-saga/redux-saga/main/logo/3840/Redux-Saga-Logo.png" width="48" height="48" alt="Redux Saga" title="Redux Saga" />
+  </a>
+  <a href="https://mobx.js.org/README.html" target="_blank" rel="noopener noreferrer" title="MobX — Official Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg" width="48" height="48" alt="MobX" title="MobX" />
+  </a>
+</p>
 
-**ВУЗ:** Окончил **с отличием** бакалавриат и магистратуру в <a href="https://tusur.ru/ru">ТУСУРе</a> 
+### UI & Desktop
 
-**В прошлом:** Инженер-программист в сфере промышленной автоматизации. Занимался разработкой ПО для PLC и SCADA
+<p>
+  <a href="https://mui.com/material-ui/getting-started/" target="_blank" rel="noopener noreferrer" title="Material UI — Official Documentation">
+    <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="Material UI" title="Material UI" />
+  </a>
+  <a href="https://www.electronjs.org/docs/latest/" target="_blank" rel="noopener noreferrer" title="Electron — Official Documentation">
+    <img src="https://skillicons.dev/icons?i=electron" width="48" height="48" alt="Electron" title="Electron" />
+  </a>
+</p>
 
-**Сейчас:** Frontend-разработчик на React
+### Build & Development Tools
 
-*Немного пробовал себя в Backend-разработке*
+<p>
+  <a href="https://vite.dev/guide/" target="_blank" rel="noopener noreferrer" title="Vite — Official Documentation">
+    <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" title="Vite" />
+  </a>
+  <a href="https://vitest.dev/guide/" target="_blank" rel="noopener noreferrer" title="Vitest — Official Documentation">
+    <img src="https://skillicons.dev/icons?i=vitest" width="48" height="48" alt="Vitest" title="Vitest" />
+  </a>
+  <a href="https://eslint.org/docs/latest/" target="_blank" rel="noopener noreferrer" title="ESLint — Official Documentation">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" width="48" height="48" alt="ESLint" title="ESLint" />
+  </a>
+  <a href="https://prettier.io/docs/" target="_blank" rel="noopener noreferrer" title="Prettier — Official Documentation">
+    <img src="https://cdn.simpleicons.org/prettier/F7B93E" width="48" height="48" alt="Prettier" title="Prettier" />
+  </a>
+  <a href="https://git-scm.com/docs" target="_blank" rel="noopener noreferrer" title="Git — Official Documentation">
+    <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" title="Git" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noopener noreferrer" title="GitHub — Official Website">
+    <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" title="GitHub" />
+  </a>
+  <a href="https://code.visualstudio.com/docs" target="_blank" rel="noopener noreferrer" title="Visual Studio Code — Official Documentation">
+    <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="Visual Studio Code" title="Visual Studio Code" />
+  </a>
+</p>
 
-*В коммерческой разработке с 2018 года*
+### Also Working With
 
-**Интересные факты:** 
-* Разработал и поддерживал информационную систему для предприятия на устаревшем VBA и PostgreSQL
-* Занимал призовое место на <a href="https://ru.wikipedia.org/wiki/%D0%A5%D0%B0%D0%BA%D0%B0%D1%82%D0%BE%D0%BD">хакатоне</a>
-* Играю на гитаре
-* Занимаюсь спортом (кроссфит и боевые единоборства)
-* Люблю делиться знаниями
+<p>
+  <a href="https://reactrouter.com/" target="_blank" rel="noopener noreferrer" title="React Router — Official Documentation">
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=reactrouter&logoColor=white" height="28" alt="React Router" title="React Router" />
+  </a>
+  <a href="https://react-hook-form.com/" target="_blank" rel="noopener noreferrer" title="React Hook Form — Official Documentation">
+    <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" height="28" alt="React Hook Form" title="React Hook Form" />
+  </a>
+  <a href="https://react-leaflet.js.org/" target="_blank" rel="noopener noreferrer" title="React Leaflet — Official Documentation">
+    <img src="https://img.shields.io/badge/React_Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" height="28" alt="React Leaflet" title="React Leaflet" />
+  </a>
+  <a href="https://recharts.org/en-US/" target="_blank" rel="noopener noreferrer" title="Recharts — Official Documentation">
+    <img src="https://img.shields.io/badge/Recharts-22B5BF?style=for-the-badge" height="28" alt="Recharts" title="Recharts" />
+  </a>
+  <a href="https://emotion.sh/docs/introduction" target="_blank" rel="noopener noreferrer" title="Emotion — Official Documentation">
+    <img src="https://img.shields.io/badge/Emotion-C76494?style=for-the-badge" height="28" alt="Emotion" title="Emotion" />
+  </a>
+</p>
+
+## 💻 What I Do
+
+- Develop scalable frontend applications using React and TypeScript.
+- Design application architecture and state management solutions.
+- Lead frontend development and participate in technical decisions.
+- Build cross-platform desktop applications with Electron.
+- Develop complex interfaces with data grids, interactive trees, and maps.
+- Focus on code quality, maintainability, and developer experience.
+
+## 🧩 LeetCode
+
+<a href="https://leetcode.com/u/kaldarkn/" target="_blank" rel="noopener noreferrer" title="My LeetCode Profile">
+  <img src="https://leetcard.jacoblin.cool/kaldarkn?theme=dark&font=Baloo&ext=heatmap" alt="LeetCode Stats" title="LeetCode Statistics" />
+</a>
+
+## 📫 Let's Connect
+
+<p>
+  <a href="https://github.com/kaldarkn" target="_blank" rel="noopener noreferrer" title="GitHub Profile">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" title="GitHub" />
+  </a>
+  <a href="https://t.me/the_codefather_dev" target="_blank" rel="noopener noreferrer" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" title="Telegram" />
+  </a>
+  <a href="https://wa.me/79234165687" target="_blank" rel="noopener noreferrer" title="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" title="WhatsApp" />
+  </a>
+  <a href="https://www.instagram.com/thenotoriousmma9/" target="_blank" rel="noopener noreferrer" title="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" title="Instagram" />
+  </a>
+  <a href="https://vk.com/kaldar" target="_blank" rel="noopener noreferrer" title="VK">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK" title="VK" />
+  </a>
+  <a href="mailto:kairat.kkn@mail.ru" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" title="Email" />
+  </a>
+</p>
+
+---
+
+*Building things that matter. Learning something new every day.*
